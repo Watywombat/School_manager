@@ -1,6 +1,6 @@
 # School Manager Project 📚🎓  
 
-![School Manager Screenshot](path/to/your/image.jpg)  
+![School Manager Screenshot](image.png)  
 
 ## Overview  
 
